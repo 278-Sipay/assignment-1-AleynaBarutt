@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sipay",
+    "\\Sipay\\SipayApi",
+    "\\Sipay\\SipayApi\\Controllers",
+    "\\Sipay\\SipayApi\\Models"
+  ],
+  "SelectedNode": "\\Sipay\\SipayApi\\Models\\Person.cs",
+  "PreviewInSolutionExplorer": false
+}
